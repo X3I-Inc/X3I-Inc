@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emil. Third-year Bachelor's in Engineering Technology Option: Smart Electronics And Software
 - 👀 I’m interested in Electrical and Software Engineering
-- 🌱 I’m currently learning C# for console app and game dev
+- 🌱 I’m currently learning C# .NET for console app and game dev
 
 
 

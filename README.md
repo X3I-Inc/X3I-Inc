@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Emil. Graduated with Bachelor's degree in Engineering Technology Option: Smart Electronics And Software<br>- 👀 I’m interested in Electrical and Software Engineering<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>
+-👋 Hi, I’m Emil. Graduated with Bachelor's degree in Engineering Technology Option: Smart Electronics And Software<br>- 👀 Making world a better place using technology<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>
 
 
 ## 🌐 Socials:

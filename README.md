@@ -1,5 +1,6 @@
 # 💫 About Me:
--👋 Hi, I’m Emil. Last year Bachelor's student studying Engineering Technology Option: Smart Electronics And Software (technically graduated I have 1 course left XD)<br>- 👀 Making world a better place using technology<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>
+-👋 Hi, I’m Emil. Garduate Bachelor's student. Major Engineering Technology Option: Smart Electronics And Software.
+<br>- 👀 Making world a better place using technology<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>- Test Automation Engineer @ Septentrio (part of Hexagon)
 
 
 ## 🌐 Socials:

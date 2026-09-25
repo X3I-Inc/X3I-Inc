@@ -1,6 +1,6 @@
 # 💫 About Me:
 -👋 Hi, I’m Emil. Garduate Bachelor's student. Major Engineering Technology Option: Smart Electronics And Software.
-<br>- 👀 Making world a better place using technology<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>- Test Automation Engineer @ Septentrio (part of Hexagon)
+<br>- 👀 Making world a better place using technology<br>- 🌱Currently learning GoLang, Angular and Tenserflow<br>- Ex R&D Test Engineer @ Septentrio (part of Hexagon)
 
 
 ## 🌐 Socials:
